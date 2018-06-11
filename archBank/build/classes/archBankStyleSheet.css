@@ -1,0 +1,131 @@
+.menu-logo{
+    height: 40px;
+    padding: -10px;
+    margin: -10px;
+
+
+}
+
+.navbar-default{
+    background-color: white;
+    border-color:  transparent;
+    padding: 10px;
+
+}
+
+.homeBannerImage{
+    background-image: url("image/00007870.jpg");
+    margin: -10px;
+    width:auto;
+    height: 730px;
+}
+
+.homeBanner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+.onlineshoppingBanner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: center;
+    align-content: left;
+
+}
+
+.bannerhead{
+    text-align: center;
+    align-content: center;
+}
+
+.regbutton{
+   background: transparent;
+    color: white;
+    width: 120px;
+    margin: 10px;
+}
+
+.onlineshoping{
+    background-image: url("image/onlineshoping.jpg");
+    margin: -10px;
+    height: 550px;
+}
+
+
+.mobilebank{
+    background-image: url("image/mobilebank.jpg");
+    margin: -10px;
+    height: 550px;
+}
+
+.mobilebankingBanner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #333333;
+    text-align: center;
+    align-content: left;
+}
+
+.worldShoping{
+    background-image: url("image/worldShoping.jpg");
+    margin: -10px;
+    height: 550px;
+}
+
+.worldPayBanner{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+
+.socialbar{
+    height: auto;
+    background-color: #333333;
+    width: auto;
+    margin: -10px;
+}
+.socialicon{
+    height: 50px;
+    width: 50px;
+    margin: -7px;
+
+}
+
+.socialiconbutton{
+    padding:0px;
+    margin:20px;
+    border:0;
+    background-color:transparent ;
+    background-color: #333333;
+}
+
+.copywright{
+    height: auto;
+    background-color: black;
+    margin-left: -10px;
+    padding: 20px;
+
+
+}
+
+.login{
+    padding: 30px;
+}
+
+.loginInputs{
+    margin: 20px;
+}
+
+.registerBanner{
+    background-image:url("image/regigisterimage.jpg");
+    height: 712.5px;
+
+
+}
+
+
