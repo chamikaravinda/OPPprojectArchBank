@@ -65,4 +65,4 @@ public class BillPay {
 	public void setTransIDDr(String transIDDr) {
 		this.transIDDr = transIDDr;
 	}
-}
+}//end of the file
